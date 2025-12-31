@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashraj Kumbhar</h1>
 <h3 align="center">IOT Devloper|Train the Model using ML|Fron-tend and back-end devloper|</h3>'
-<img align="right"alt="coding"width="400" src="https://www.freepik.com/free-photo/male-indian-programmer-working-desktop-computer-white-desk-office_9314161.htm#fromView=keyword&page=3&position=33&uuid=348cb598-f8fb-4eb3-a50b-2c366608f167&query=Coding+gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumbharyashraj09&label=Profile%20views&color=0e75b6&style=flat" alt="kumbharyashraj09" /> </p>
 
