@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashraj Kumbhar</h1>
 <h3 align="center">IOT Devloper|Train the Model using ML|Fron-tend and back-end devloper|</h3>'
-<img align="right" alt="coading" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTltcTZpNnoxNHNicXZvN216OXpjdHh2cWc0N3J1dzg2bGo4b2FuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
+<img align="right" alt="coading" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTltcTZpNnoxNHNicXZvN216OXpjdHh2cWc0N3J1dzg2bGo4b2FuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumbharyashraj09&label=Profile%20views&color=0e75b6&style=flat" alt="kumbharyashraj09" /> </p>
 
